@@ -1,3 +1,5 @@
+                                  #CAJA REGISTRADORA CON LISTA ENLAZADA
+
 Un supermercado nos pide que hagamos una pequeña aplicación que almacene los productos pasados por el escaner.
 La aplicación debe almacenar Productos (clase), cada producto al crearse contiene una cantidad, 
 un precio (estos dos generados aleatoriamente). El nombre del producto será básico (producto1, producto2, producto3, etc.).
